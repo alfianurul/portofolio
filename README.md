@@ -29,7 +29,7 @@ Some portofolios I made, mostly on data science and data analysis. Almost all da
 2. [Data Visualization on Telco Customer Churn](https://www.kaggle.com/anrakhma/data-visualization-on-telco-customer-churn)<br>
    Insight with data visualization on telco customer churn data.
 
-3. [Statistical Analysis on House Price]()<br>
+3. [Statistical Analysis on House Price](https://www.kaggle.com/anrakhma/simple-statistical-analysis)<br>
    Simple statistical analysis on house price data.
 
 
