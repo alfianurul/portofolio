@@ -21,7 +21,7 @@ Some portofolios I made, mostly on data science and data analysis. Almost all da
 5. [Time Series](https://colab.research.google.com/drive/1meWgT5zCIkOZFWid_AmsP9I0WNwZeHbq?usp=sharing)<br>
    Time series model on Climate temperature using Tensorflow.
 
-6. [Image Recognition - Wearing Facemask]()<br>
+6. [Image Recognition - Wearing Facemask](https://drive.google.com/file/d/1XI2WpNZv72tvS33j9YLqJRPx7Sf66yaI/view?usp=sharing)<br>
    Artificial neural network model using TensorFlow to recognize image or photos of people and determine whether they are wearing facemask or not.
    
 7. [Loan Prediction - HCI Virtual Internship by Rakamin Academy](https://github.com/alfianurul/ML_HCI-Loan)<br>
