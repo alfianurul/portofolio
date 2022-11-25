@@ -18,7 +18,7 @@ Some portofolios I made, mostly on data science and data analysis. Almost all da
 4. [News Classification](https://github.com/alfianurul/ML_News-Predictions)<br>
    Text classification into multiple class using Tensorflow.
 
-5. [Time Series](https://www.kaggle.com/anrakhma/simple-time-series-model-with-lstm)<br>
+5. [Time Series](https://colab.research.google.com/drive/1meWgT5zCIkOZFWid_AmsP9I0WNwZeHbq?usp=sharing)<br>
    Time series model on Climate temperature using Tensorflow.
 
 6. [Image Recognition - Wearing Facemask]()<br>
